@@ -1,0 +1,5 @@
+Triggering GitHub Actions build for feature/scaffold-kumo
+
+This small commit was created to start the Android build workflow. You can follow the run in the repo Actions tab.
+
+Timestamp: 2026-09-02T00:00:00Z (automated)
